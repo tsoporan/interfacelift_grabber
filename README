@@ -1,0 +1,3 @@
+Simple python command line script to rip wallpapers from interfacelift.com.
+
+Uses lxml.
